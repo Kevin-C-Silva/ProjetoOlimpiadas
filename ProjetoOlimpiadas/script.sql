@@ -497,12 +497,12 @@ begin
 end;
 $$
 
-call insResA(7, 111, 17, '4º lugar', null);
-call insResA(7, 111, 18, '3º lugar', 'Bronze');
-call insResA(7, 111, 19, '3º lugar', 'Bronze'); 
-call insResA(7, 111, 20, '4º lugar', null);
-call insResA(7, 111, 21, '4º lugar', 'Ouro');
-                                                                                
+call insResA(8, 111, 17, '4º lugar', null);
+call insResA(8, 111, 18, '3º lugar', 'Bronze');
+call insResA(8, 111, 19, '3º lugar', 'Bronze'); 
+call insResA(8, 111, 20, '4º lugar', null);
+call insResA(8, 111, 21, '4º lugar', 'Ouro');
+
 call insResA(1, 56, 6, '8º lugar', null);
 call insResA(1, 56, 7, '1º lugar', 'Ouro');
 call insResA(1, 56, 8, '1º lugar', 'Ouro');
@@ -561,9 +561,23 @@ inner join provas p on ra.codProva = p.codProva
 inner join modalidades m on p.codModalidade = m.codModalidade
 inner join edicoes ed on ra.codEdicao = ed.codEdicao;
 
+select distinct 
+						a.codAtleta as 'Código', 
+                        a.nomeAtleta as 'Atleta', 
+                        a.dataNascimento as 'Data de Nascimento', 
+                        a.sexo as Sexo, 
+                        a.codCidade 'Cidade de Nascimento',
+                        m.codModalidade as Modalidade, 
+                        m.nomeModalidade as 'Nome da Modalidade'
+                    from resultadosatletas r
+                    join provas p on p.codProva = r.codProva
+                    join atletas a on a.codAtleta = r.codAtleta
+                    left join modalidades m on m.codModalidade = p.codModalidade
+                    where r.codEdicao = 21;
+
 -- select * from Atletas;
 -- select * from Edicoes;
 -- select * from Modalidades;
 -- select * from Cidades where nomeCidade = 'São Paulo';
 -- select * from Provas where codModalidade = 5;
--- select * from ResultadosAtletas where codAtleta = 1;
+-- select * from ResultadosAtletas where codAtleta = 7;

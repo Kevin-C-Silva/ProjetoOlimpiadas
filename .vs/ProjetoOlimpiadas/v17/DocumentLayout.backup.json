@@ -4,7 +4,30 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\edicao\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\edicao\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\models\\atletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\edicao\\atletas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\edicao\\atletas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+>>>>>>> dev
       "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\edicao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\edicao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,12 +36,16 @@
       "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\models\\edicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|c:\\users\\3mod\\desktop\\projetoolimpiadas\\projetoolimpiadas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C62C24-F398-4765-A296-8EA4487A96FC}|ProjetoOlimpiadas\\ProjetoOlimpiadas.csproj|solutionrelative:projetoolimpiadas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
 >>>>>>> dev
@@ -39,6 +66,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
@@ -46,58 +74,148 @@
               "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
               "RelativeToolTip": "ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+=======
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\Edicao\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Detalhes.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\Edicao\\Detalhes.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+>>>>>>> dev
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T17:40:24.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edicoes.cs",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Edicoes.cs",
-              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Models\\Edicoes.cs",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Edicoes.cs",
-              "RelativeToolTip": "ProjetoOlimpiadas\\Models\\Edicoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:33:55.766Z",
+              "WhenOpened": "2025-08-07T19:36:28.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EdicaoController.cs",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
-              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
-              "RelativeToolTip": "ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Models\\Cidade.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Cidade.cs",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Models\\Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:22:10.532Z",
+              "WhenOpened": "2025-08-07T19:27:58.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\Edicao\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T19:13:31.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Data\\Database.cs",
-              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Data\\Database.cs",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Data\\Database.cs",
-              "RelativeToolTip": "ProjetoOlimpiadas\\Data\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "Atletas.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Atletas.cs",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Models\\Atletas.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Atletas.cs",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Models\\Atletas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:08:01.488Z",
+              "WhenOpened": "2025-08-07T18:07:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdicaoController.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Controllers\\EdicaoController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAIAwwGEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:59:07.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+              "Title": "Atletas.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Atletas.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\Edicao\\Atletas.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Edicao\\Atletas.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\Edicao\\Atletas.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgvz4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T19:11:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edicoes.cs",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Edicoes.cs",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Models\\Edicoes.cs",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Models\\Edicoes.cs",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Models\\Edicoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:03:35.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T18:00:37.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T18:00:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjetoOlimpiadas\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjetoOlimpiadas\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T18:00:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
 >>>>>>> dev
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoOlimpiadas\\appsettings.json",
               "ToolTip": "C:\\Users\\3mod\\Desktop\\ProjetoOlimpiadas\\ProjetoOlimpiadas\\appsettings.json",
               "RelativeToolTip": "ProjetoOlimpiadas\\appsettings.json",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -107,6 +225,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-07T17:03:57.943Z"
+>>>>>>> dev
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T17:03:57.943Z",
+              "EditorCaption": ""
 >>>>>>> dev
             }
           ]

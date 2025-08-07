@@ -2,11 +2,11 @@
 {
     public class Edicoes
     {
-        public int codEdicao { get; set; }
+        public int CodEdicao { get; set; }
 
-        public int ano { get; set; }
+        public int Ano { get; set; }
 
-        public string sede { get; set; }
+        public string Sede { get; set; }
 
     }
 }
