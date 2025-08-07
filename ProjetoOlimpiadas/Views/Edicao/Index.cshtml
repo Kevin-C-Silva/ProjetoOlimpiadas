@@ -1,0 +1,14 @@
+﻿@model List<ProjetoOlimpiadas.Models.Edicoes>
+
+<h2>Edições Olímpicas</h2>
+
+<ul>
+    @foreach (var edicao in Model)
+    {
+        <li>
+            <a href="/Edicao/Atletas/@edicao.codEdicao">
+                @edicao.ano - @edicao.sede
+            </a>
+        </li>
+    }
+</ul>
