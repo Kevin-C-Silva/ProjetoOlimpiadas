@@ -562,7 +562,7 @@ inner join modalidades m on p.codModalidade = m.codModalidade
 inner join edicoes ed on ra.codEdicao = ed.codEdicao;
 
 -- select * from Atletas;
--- select * from Edicoes where ano = 2024;
+-- select * from Edicoes;
 -- select * from Modalidades;
 -- select * from Cidades where nomeCidade = 'São Paulo';
 -- select * from Provas where codModalidade = 5;
