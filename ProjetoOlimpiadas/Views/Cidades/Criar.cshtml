@@ -1,0 +1,32 @@
+﻿@model ProjetoOlimpiadas.Models.Cidades
+
+@{
+    ViewBag.Title = "Cadastro de Cidade";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/criar.css" />
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Cadastrar Cidade</h2>
+        <form asp-action="Criar" method="post">
+
+            <label>Nome:</label>
+            <input asp-for="NomeCidade" type="text" required />
+
+            <select asp-for="CodEstado" asp-items="@(new SelectList(ViewBag.EstadosPaises, "CodEstado", "NomeEstado"))" required>
+                <option value="">Selecione o estado ou país</option>
+            </select>
+
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+</body>
+</html>

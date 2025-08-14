@@ -622,6 +622,6 @@ call insResA(13, 121, 23, '5º Lugar', null);
 -- describe Atletas;
 -- describe Cidades;
 -- select * from Provas where codModalidade = 6;
--- select * from Cidades where nomeCidade = 'Belo Horizonte';
+-- select * from Cidades where nomeCidade = 'Munique';
 -- select * from Provas where codModalidade = 6;
 -- select * from ResultadosAtletas where codAtleta = 7;

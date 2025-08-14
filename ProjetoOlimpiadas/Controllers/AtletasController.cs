@@ -27,7 +27,7 @@ namespace ProjetoOlimpiadas.Controllers
             using (var conn = db.GetConnection())
             {
                 var sql = @"insert into atletas (nomeAtleta, dataNascimento, sexo, altura, peso, codCidade) 
-                     VALUES (@nome, @data, @sexo, @altura, @peso, @cidade);";
+                     values (@nome, @data, @sexo, @altura, @peso, @cidade);";
                 var cmd = new MySqlCommand(sql, conn);
                 cmd.Parameters.AddWithValue("@nome", atletas.NomeAtleta);
                 cmd.Parameters.AddWithValue("@data", atletas.DataNascimento);
