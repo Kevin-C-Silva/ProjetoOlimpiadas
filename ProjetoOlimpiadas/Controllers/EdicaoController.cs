@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace ProjetoOlimpiadas.Controllers
 {
-    public class EdicoesController : Controller
+    public class EdicaoController : Controller
     {
         private readonly Database db = new Database();
 

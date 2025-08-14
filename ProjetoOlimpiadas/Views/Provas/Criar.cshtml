@@ -1,0 +1,29 @@
+﻿@model ProjetoOlimpiadas.Models.Provas
+
+@{
+    ViewBag.Title = "Cadastro de Prova";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/criar.css" />
+</head>
+<body>
+    <div class="form-container">
+        <h2>Cadastrar Prova</h2>
+        <form asp-action="Criar" method="post">
+            <label>Nome da prova:</label>
+            <input asp-for="NomeProva" type="text" required />
+
+            <select asp-for="CodModalidade" asp-items="@(new SelectList(ViewBag.Modalidades, "CodModalidade", "NomeModalidade"))" required>
+                <option value="">Selecione a modalidade</option>
+            </select>
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+</body>
+</html>
